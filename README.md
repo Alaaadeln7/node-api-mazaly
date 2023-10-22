@@ -1,2 +1,2 @@
-# node-api-mazaly
-api form mazaly project
+# nodejs-products-project
+create api by node.js to show products
